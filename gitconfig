@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = mathieu.cochet@polytechnique.edu
+	email = mathieu@cochet.me
 	name = Mathieu Cochet
